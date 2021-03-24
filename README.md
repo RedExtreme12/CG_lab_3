@@ -25,4 +25,12 @@
 
 ![Screen of work example_4](https://github.com/RedExtreme12/CG_lab_3/blob/master/screens/screen_4.png)
 
-![Screen of work example_4](https://github.com/RedExtreme12/CG_lab_3/blob/master/screens/screen_5.png)
+![Screen of work example_5](https://github.com/RedExtreme12/CG_lab_3/blob/master/screens/screen_5.png)
+
+При помощи линейного контрастирования или эквализации гистограммы мы можем повышать контрастность изображений. При эквализации гистограмм использовались таблицы поиска. Для тестирования, таким образом будет целосообразно подбирать низкоконтрастные изображения:
+
+![Screen of work example_6](https://github.com/RedExtreme12/CG_lab_3/blob/master/screens/screen_6.png)
+
+![Screen of work example_7](https://github.com/RedExtreme12/CG_lab_3/blob/master/screens/screen_7.png)
+
+![Screen of work example_8](https://github.com/RedExtreme12/CG_lab_3/blob/master/screens/screen_8.png)
